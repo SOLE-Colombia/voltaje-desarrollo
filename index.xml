@@ -6,65 +6,65 @@
       <description>Últimas 10 notas on SOLE Voltaje</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>index</title>
+    <title>Offline</title>
     <link>https://sole-colombia.github.io/voltaje-desarrollo/en/disconnected/</link>
     <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/disconnected/</guid>
-    <description><![CDATA[ Here is the translation, keeping the tone practical, friendly, and accessible. ]]></description>
-    <pubDate>Mon, 27 Apr 2026 19:00:19 GMT</pubDate>
+    <description><![CDATA[ Learn how to handle the Internet even when you're totally disconnected. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 21:53:17 GMT</pubDate>
   </item><item>
-    <title>conc-2g-net</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-2g-net</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-2g-net</guid>
-    <description><![CDATA[ Here is the translation, keeping the tone practical and approachable: title: “2G Network” summary: “The technology that bridged the gap between analog and digital.” date: 2025-08-25 tags: author: SOLE Colombia draft: false The 2G (Second Generation) network is the mobile technology that marked the s... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 19:00:19 GMT</pubDate>
+    <title>Conceptorium</title>
+    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/</link>
+    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/</guid>
+    <description><![CDATA[ A glossary of technical terms and key concepts for the curious mind. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 21:53:17 GMT</pubDate>
   </item><item>
-    <title>conc-3g-4g-antennas</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-3g-4g-antennas</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-3g-4g-antennas</guid>
-    <description><![CDATA[ Aquí tienes la traducción al inglés, manteniendo un tono práctico, claro y cercano: title: “3G/4G Antenna” resumen: “A device to help you connect to 3G or 4G networks.” date: 2025-09-11 tags: Devices Networks-and-connections autor: SOLE Colombia draft: false A 3G/4G antenna, also known as an LTE ant... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 19:00:19 GMT</pubDate>
+    <title>Get Inspired</title>
+    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/</link>
+    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/</guid>
+    <description><![CDATA[ Discover success stories, innovative ideas, and examples of how other communities have managed to connect. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 21:53:17 GMT</pubDate>
   </item><item>
-    <title>conc-ai-helper</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-ai-helper</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-ai-helper</guid>
-    <description><![CDATA[ Here is the translation, keeping the practical and friendly tone of your original text: title: “Wise Assistant (Local AI)” summary: “A consultant program that lives on your server and helps you process your own information.” date: “2026-04-05” tags: [] author: “David | SOLE Colombia” draft: false Th... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 19:00:19 GMT</pubDate>
+    <title>insp-convince-sharing-internet</title>
+    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-convince-sharing-internet</link>
+    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-convince-sharing-internet</guid>
+    <description><![CDATA[ Aquí tienes una traducción con un tono práctico y cercano: title: “Think you could convince your neighbors to ditch their Wi-Fi password?” date: “2025-10-11” tags: [] permite: “Share” autor: “SOLE Colombia” draft: false resumen: “A question about sharing connectivity within your community.” . ]]></description>
+    <pubDate>Mon, 27 Apr 2026 21:53:17 GMT</pubDate>
   </item><item>
-    <title>conc-antenna</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-antenna</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-antenna</guid>
-    <description><![CDATA[ Aquí tienes la traducción al inglés, manteniendo un tono práctico, claro y cercano: title: “Antenna” resumen: “A device that sends and receives waves.” date: 2025-02-24 tags: Devices Networks-and-connections autor: SOLE Colombia draft: false In simple terms, an antenna is a device designed to transm... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 19:00:19 GMT</pubDate>
+    <title>insp-data-for-dollar</title>
+    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-data-for-dollar</link>
+    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-data-for-dollar</guid>
+    <description><![CDATA[ Aquí tienes una propuesta con un tono práctico y cercano: title: “How much data do you get for $1 USD? Let’s check your plan.” date: “2025-10-11” tags: [] author: “SOLE Colombia” draft: false summary: “A quick look at what you’re really paying for connectivity.” permits: “Improve” . ]]></description>
+    <pubDate>Mon, 27 Apr 2026 21:53:17 GMT</pubDate>
   </item><item>
-    <title>conc-bandwidth</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-bandwidth</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-bandwidth</guid>
-    <description><![CDATA[ Aquí tienes la traducción al inglés, manteniendo un tono práctico, cercano y fácil de entender: title: “Bandwidth” resumen: “The maximum amount of data that can travel through your network at the same time.” date: 2026-04-05 tags: “Networking” autor: “David | SOLE Colombia” draft: false Bandwidth is... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 19:00:19 GMT</pubDate>
+    <title>insp-data-usage</title>
+    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-data-usage</link>
+    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-data-usage</guid>
+    <description><![CDATA[ Aquí tienes una propuesta con un tono práctico y cercano: title: “How many GB of data do you think you use each month?” date: “2025-10-11” tags: [] autor: “SOLE Colombia” draft: false resumen: “Take a moment to think about your data usage.” permite: “Improve” . ]]></description>
+    <pubDate>Mon, 27 Apr 2026 21:53:17 GMT</pubDate>
   </item><item>
-    <title>conc-canva</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-canva</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-canva</guid>
-    <description><![CDATA[ Here is the translation with a practical and approachable tone: title: “Canva” summary: “An online graphic design platform for everyone.” date: “2025-07-15” tags: [] author: “SOLE Colombia” draft: false Canva is a free online graphic design platform that lets anyone—regardless of design experience—c... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 19:00:19 GMT</pubDate>
+    <title>insp-free-internet-for-all</title>
+    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-free-internet-for-all</link>
+    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-free-internet-for-all</guid>
+    <description><![CDATA[ Aquí tienes la traducción con un tono práctico y cercano: title: “Do you think internet access should be free for everyone?” date: “2025-10-11” tags: [] autor: “SOLE Colombia” draft: false resumen: “A question about universal connectivity.” permite: “Improve” . ]]></description>
+    <pubDate>Mon, 27 Apr 2026 21:53:17 GMT</pubDate>
   </item><item>
-    <title>conc-client</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-client</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-client</guid>
-    <description><![CDATA[ Aquí tienes la traducción al inglés, manteniendo un tono práctico, claro y cercano: title: “Client” resumen: “Those who interact with servers.” date: 2025-07-22 tags: Computer-basics Networks-and-connections Virtual-world-terms autor: SOLE Colombia draft: false In computing, a client is a piece of h... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 19:00:19 GMT</pubDate>
+    <title>insp-internet-ate-homework</title>
+    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-internet-ate-homework</link>
+    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-internet-ate-homework</guid>
+    <description><![CDATA[ Aquí tienes una traducción con un tono práctico y cercano: title: “Did the internet or your dog eat your homework?” date: “2025-10-11” tags: [] autor: “SOLE Colombia” draft: false resumen: “Taking responsibility in the digital world.” permite: “Improve” . ]]></description>
+    <pubDate>Mon, 27 Apr 2026 21:53:17 GMT</pubDate>
   </item><item>
-    <title>conc-coaxial-cable</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-coaxial-cable</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-coaxial-cable</guid>
-    <description><![CDATA[ Aquí tienes una traducción con un tono práctico y cercano, ideal para un blog o una guía técnica: title: “Coaxial Cable” resumen: “Transmitting high-frequency signals.” date: 2024-02-15 tags: Networking-and-connections autor: SOLE Colombia draft: false A coaxial cable is basically a cable designed t... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 19:00:19 GMT</pubDate>
+    <title>How to build SOLE?</title>
+    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-make-SOLE</link>
+    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-make-SOLE</guid>
+    <description><![CDATA[ A guide to setting up your own Self-Organized Learning Environment ]]></description>
+    <pubDate>Mon, 27 Apr 2026 21:53:17 GMT</pubDate>
   </item><item>
-    <title>conc-command-prompt</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-command-prompt</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/conc-command-prompt</guid>
-    <description><![CDATA[ Aquí tienes una traducción con un tono práctico, cercano y fácil de entender: title: “CMD Command Prompt” resumen: “Chatting with your computer… but in its own language.” date: 2025-07-17 tags: How-computers-work autor: SOLE Colombia draft: false In Windows, CMD (or Command Prompt) is a command-line... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 19:00:19 GMT</pubDate>
+    <title>insp-privileged-finance-internet</title>
+    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-privileged-finance-internet</link>
+    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-privileged-finance-internet</guid>
+    <description><![CDATA[ Aquí tienes una traducción con un tono práctico y cercano, ideal para un blog o plataforma digital: title: “Do you think the privileged should subsidize internet for everyone?” date: “2025-10-11” tags: [] autor: “SOLE Colombia” draft: false resumen: “A question about digital equity.” permite: “Impro... ]]></description>
+    <pubDate>Mon, 27 Apr 2026 21:53:17 GMT</pubDate>
   </item>
     </channel>
   </rss>
