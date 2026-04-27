@@ -6,6 +6,18 @@
       <description>Últimas 10 notas on SOLE Voltaje</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Modo Desconectado</title>
+    <link>https://sole-colombia.github.io/voltaje-desarrollo/disconnected/</link>
+    <guid>https://sole-colombia.github.io/voltaje-desarrollo/disconnected/</guid>
+    <description><![CDATA[ Aprenda a manejar sus equipos y programas incluso cuando la conexión se fue al carajo. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 22:15:15 GMT</pubDate>
+  </item><item>
+    <title>Offline</title>
+    <link>https://sole-colombia.github.io/voltaje-desarrollo/pt/disconnected/</link>
+    <guid>https://sole-colombia.github.io/voltaje-desarrollo/pt/disconnected/</guid>
+    <description><![CDATA[ Aprenda a se virar com a tecnologia mesmo quando a internet te deixa na mão. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 22:15:15 GMT</pubDate>
+  </item><item>
     <title>Offline</title>
     <link>https://sole-colombia.github.io/voltaje-desarrollo/en/disconnected/</link>
     <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/disconnected/</guid>
@@ -52,18 +64,6 @@
     <link>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-internet-ate-homework</link>
     <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-internet-ate-homework</guid>
     <description><![CDATA[ Aquí tienes una traducción con un tono práctico y cercano: title: “Did the internet or your dog eat your homework?” date: “2025-10-11” tags: [] autor: “SOLE Colombia” draft: false resumen: “Taking responsibility in the digital world.” permite: “Improve” . ]]></description>
-    <pubDate>Mon, 27 Apr 2026 21:53:17 GMT</pubDate>
-  </item><item>
-    <title>How to build SOLE?</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-make-SOLE</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-make-SOLE</guid>
-    <description><![CDATA[ A guide to setting up your own Self-Organized Learning Environment ]]></description>
-    <pubDate>Mon, 27 Apr 2026 21:53:17 GMT</pubDate>
-  </item><item>
-    <title>insp-privileged-finance-internet</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-privileged-finance-internet</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/insp-privileged-finance-internet</guid>
-    <description><![CDATA[ Aquí tienes una traducción con un tono práctico y cercano, ideal para un blog o plataforma digital: title: “Do you think the privileged should subsidize internet for everyone?” date: “2025-10-11” tags: [] autor: “SOLE Colombia” draft: false resumen: “A question about digital equity.” permite: “Impro... ]]></description>
     <pubDate>Mon, 27 Apr 2026 21:53:17 GMT</pubDate>
   </item>
     </channel>
