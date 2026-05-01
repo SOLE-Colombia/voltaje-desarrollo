@@ -2,69 +2,69 @@
 <rss version="2.0">
     <channel>
       <title>SOLE Voltaje</title>
-      <link>https://sole-colombia.github.io/voltaje-desarrollo</link>
+      <link>https://voltaje.solecolombia.org</link>
       <description>Últimas 10 notas on SOLE Voltaje</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Desconectado</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/disconnected/</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/disconnected/</guid>
-    <description><![CDATA[ Aprenda a manejar sus equipos y programas incluso cuando la conexión se fue al carajo. ]]></description>
-    <pubDate>Tue, 28 Apr 2026 18:12:09 GMT</pubDate>
+    <title>Bicigenerador</title>
+    <link>https://voltaje.solecolombia.org/es/solve/solv-bicigenerator</link>
+    <guid>https://voltaje.solecolombia.org/es/solve/solv-bicigenerator</guid>
+    <description><![CDATA[ Created: 24 de febrero de 2025 7:27 Autor: Nicolás Solucionas: Electricidad Dificultad: Difícil Cuesta: &gt;$200 COP Ayudantes: 2-3 personas Tardas: Días pilar/dispositivos: 0: No aporta a equipos pilar/espacio: 0: No aporta a tener un espacio público pilar/personas: 1: Aporta a que haya una comunid... ]]></description>
+    <pubDate>Fri, 01 May 2026 13:36:56 GMT</pubDate>
   </item><item>
-    <title>Conceptório</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/pt/glossary/</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/pt/glossary/</guid>
-    <description><![CDATA[ Um glossário pra você não se perder nos termos técnicos e conceitos que a gente usa por aqui. ]]></description>
-    <pubDate>Tue, 28 Apr 2026 15:57:44 GMT</pubDate>
+    <title>La Wikipedia de bolsillo en tu RaspberryPi</title>
+    <link>https://voltaje.solecolombia.org/es/solve/solv-pocket-wikipedia</link>
+    <guid>https://voltaje.solecolombia.org/es/solve/solv-pocket-wikipedia</guid>
+    <description><![CDATA[ La Wikipedia de bolsillo en tu RaspberryPi Created: 30 de julio de 2025 0:14 Autor: Nicolás Solucionas: Dispositivos Dificultad: Fácil Cuesta: Gratis Ayudantes: Nadie Tardas: Horas pilar/dispositivos: 1: Aporta para tener dispositivos unipersonales (Celulares) pilar/espacio: 0: No aporta a tener un ... ]]></description>
+    <pubDate>Fri, 01 May 2026 13:36:56 GMT</pubDate>
   </item><item>
-    <title>Inspire-se</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/pt/inspire/</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/pt/inspire/</guid>
-    <description><![CDATA[ Descubra histórias de sucesso, ideias inovadoras e exemplos de como outras comunidades conseguiram se conectar. ]]></description>
-    <pubDate>Tue, 28 Apr 2026 15:57:44 GMT</pubDate>
+    <title>Es importante aprender a transmitir un buen mensaje para hacer una buena invitacionna</title>
+    <link>https://voltaje.solecolombia.org/es/answers-comments/es-importante-aprender-a-transmitir-un-buen-mensaje-para-hacer-una-buena-invitacionna-responses</link>
+    <guid>https://voltaje.solecolombia.org/es/answers-comments/es-importante-aprender-a-transmitir-un-buen-mensaje-para-hacer-una-buena-invitacionna-responses</guid>
+    <description><![CDATA[ Es importante aprender a transmitir un buen mensaje para hacer una buena invitacionna Respondent: Anónimo Status: Not started Submission time: 28 de agosto de 2025 16:31 Tu nombre: Tasha, Shayra y Emelina ¿Dónde estás?: Boca de Camarones-La Guajira ¿Por qué tienes esta pregunta o comentarios?: porqu... ]]></description>
+    <pubDate>Wed, 19 Nov 2025 16:56:48 GMT</pubDate>
   </item><item>
-    <title>Soluciona</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/pt/solve/</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/pt/solve/</guid>
-    <description><![CDATA[ Encontre soluções práticas e ferramentas para melhorar a conectividade e resolver aqueles pepinos técnicos na sua comunidade. ]]></description>
-    <pubDate>Tue, 28 Apr 2026 15:57:44 GMT</pubDate>
+    <title>Pregunta/Comenta</title>
+    <link>https://voltaje.solecolombia.org/es/answers-comments/</link>
+    <guid>https://voltaje.solecolombia.org/es/answers-comments/</guid>
+    <description><![CDATA[ Comparte tus preguntas y comentarios con la comunidad. ]]></description>
+    <pubDate>Wed, 19 Nov 2025 16:56:48 GMT</pubDate>
   </item><item>
-    <title>Disconnected</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/disconnected/</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/disconnected/</guid>
-    <description><![CDATA[ Learn how to handle the Internet even when you're totally disconnected. ]]></description>
-    <pubDate>Mon, 27 Apr 2026 22:56:01 GMT</pubDate>
+    <title>Pregunta/Comenta</title>
+    <link>https://voltaje.solecolombia.org/es/answers-comments/pregunta-comenta-sole-voltaje</link>
+    <guid>https://voltaje.solecolombia.org/es/answers-comments/pregunta-comenta-sole-voltaje</guid>
+    <description><![CDATA[ Pregunta/Comenta ¿Quieres más? Si quieres hacer parte de una comunidad de cacharreros que comparte preguntas, comentarios, respuestas e incentiva la curiosidad por el internet, la tecnología y el trabajo comunitario, únete a nuestro canal de Whatsapp o escríbenos a hola@solecolombia.org. ]]></description>
+    <pubDate>Wed, 19 Nov 2025 16:56:48 GMT</pubDate>
   </item><item>
-    <title>Concepts</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/glossary/</guid>
-    <description><![CDATA[ A glossary of technical terms and key concepts for the curious mind. ]]></description>
-    <pubDate>Mon, 27 Apr 2026 22:56:01 GMT</pubDate>
+    <title>¿Tienes preguntas o comentarios?</title>
+    <link>https://voltaje.solecolombia.org/es/answers-comments/tienes-preguntas-o-comentarios-responses</link>
+    <guid>https://voltaje.solecolombia.org/es/answers-comments/tienes-preguntas-o-comentarios-responses</guid>
+    <description><![CDATA[ ¿Tienes preguntas o comentarios?. ]]></description>
+    <pubDate>Wed, 19 Nov 2025 16:56:48 GMT</pubDate>
   </item><item>
-    <title>Get inspired</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/inspire/</guid>
-    <description><![CDATA[ Discover success stories, innovative ideas, and examples of how other communities have managed to connect. ]]></description>
-    <pubDate>Mon, 27 Apr 2026 22:56:01 GMT</pubDate>
+    <title>Descargas</title>
+    <link>https://voltaje.solecolombia.org/es/descargas</link>
+    <guid>https://voltaje.solecolombia.org/es/descargas</guid>
+    <description><![CDATA[ Descarga material de SOLE Voltaje en formato PDF ]]></description>
+    <pubDate>Wed, 19 Nov 2025 16:56:48 GMT</pubDate>
   </item><item>
-    <title>New here</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/new-here</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/new-here</guid>
-    <description><![CDATA[ First time at Voltaje? Start here to get the hang of how the platform works and how you can chip in. ]]></description>
-    <pubDate>Mon, 27 Apr 2026 22:56:01 GMT</pubDate>
+    <title>Acordar con un vecino</title>
+    <link>https://voltaje.solecolombia.org/es/disconnected/acordar-con-un-vecino-voltaje-desconectado</link>
+    <guid>https://voltaje.solecolombia.org/es/disconnected/acordar-con-un-vecino-voltaje-desconectado</guid>
+    <description><![CDATA[ Acordar con un vecino Creado: 17 de diciembre de 2024 22:39 Etiquetas: Conseguir, Internet, Soluciones, Tarjeta ![Versión Voltaje Virtual_20241202_SOLE_Desconectado v2.png](Antenas de radioenlace 062f4718da4b497cb449639bbb55ea3e/Versin_Voltaje_Virtual_20241202_SOLE_Desconectado_v2.png) Paso 1: Para ... ]]></description>
+    <pubDate>Wed, 19 Nov 2025 16:56:48 GMT</pubDate>
   </item><item>
-    <title>Solve</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/solve/</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/solve/</guid>
-    <description><![CDATA[ Find practical hacks and tools to boost connectivity and troubleshoot technical glitches in your community. ]]></description>
-    <pubDate>Mon, 27 Apr 2026 22:56:01 GMT</pubDate>
+    <title>Antenas de radioenlace</title>
+    <link>https://voltaje.solecolombia.org/es/disconnected/antenas-de-radioenlace-voltaje-desconectado</link>
+    <guid>https://voltaje.solecolombia.org/es/disconnected/antenas-de-radioenlace-voltaje-desconectado</guid>
+    <description><![CDATA[ Antenas de radioenlace Creado: 17 de diciembre de 2024 22:52 Etiquetas: Conseguir, Internet, Soluciones, Tarjeta ![Versión Voltaje Virtual_20241202_SOLE_Desconectado v2.png](Antenas de radioenlace 062f4718da4b497cb449639bbb55ea3e/Versin_Voltaje_Virtual_20241202_SOLE_Desconectado_v2.png) Paso 1: Para... ]]></description>
+    <pubDate>Wed, 19 Nov 2025 16:56:48 GMT</pubDate>
   </item><item>
-    <title>Offline</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/pt/disconnected/</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/pt/disconnected/</guid>
-    <description><![CDATA[ Aprenda a se virar com a tecnologia mesmo quando a internet te deixa na mão. ]]></description>
-    <pubDate>Mon, 27 Apr 2026 22:15:15 GMT</pubDate>
+    <title>Big Box de Jangala</title>
+    <link>https://voltaje.solecolombia.org/es/disconnected/big-box-de-jangala-voltaje-desconectado</link>
+    <guid>https://voltaje.solecolombia.org/es/disconnected/big-box-de-jangala-voltaje-desconectado</guid>
+    <description><![CDATA[ Big Box de Jangala Creado: 17 de diciembre de 2024 22:59 Etiquetas: Compartir, Internet, Soluciones, Tarjeta ![Versión Voltaje Virtual_20241202_SOLE_Desconectado v2 (1).png](Big Box de Jangala 5c1d30f1abfd49ed8d3154c15334aa82/Versin_Voltaje_Virtual_20241202_SOLE_Desconectado_v2_(1).png) Paso 1: Para... ]]></description>
+    <pubDate>Wed, 19 Nov 2025 16:56:48 GMT</pubDate>
   </item>
     </channel>
   </rss>
