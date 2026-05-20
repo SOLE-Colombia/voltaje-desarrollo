@@ -6,6 +6,24 @@
       <description>Últimas 10 notas on SOLE Voltaje</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Disconnected</title>
+    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/disconnected/</link>
+    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/disconnected/</guid>
+    <description><![CDATA[ Learn to manage your gear and software even when the connection goes to hell. ]]></description>
+    <pubDate>Wed, 20 May 2026 23:56:40 GMT</pubDate>
+  </item><item>
+    <title>Desconectado</title>
+    <link>https://sole-colombia.github.io/voltaje-desarrollo/disconnected/</link>
+    <guid>https://sole-colombia.github.io/voltaje-desarrollo/disconnected/</guid>
+    <description><![CDATA[ Aprenda a manejar sus equipos y programas incluso cuando la conexión se fue al carajo. ]]></description>
+    <pubDate>Wed, 20 May 2026 23:56:40 GMT</pubDate>
+  </item><item>
+    <title>Desconectado</title>
+    <link>https://sole-colombia.github.io/voltaje-desarrollo/pt/disconnected/</link>
+    <guid>https://sole-colombia.github.io/voltaje-desarrollo/pt/disconnected/</guid>
+    <description><![CDATA[ Aprenda a lidar com seus equipamentos e programas mesmo quando a conexão foi pro beleléu. ]]></description>
+    <pubDate>Wed, 20 May 2026 23:56:40 GMT</pubDate>
+  </item><item>
     <title>CLAUDE</title>
     <link>https://sole-colombia.github.io/voltaje-desarrollo/CLAUDE</link>
     <guid>https://sole-colombia.github.io/voltaje-desarrollo/CLAUDE</guid>
@@ -17,18 +35,6 @@
     <guid>https://sole-colombia.github.io/voltaje-desarrollo/nuevo-aqui</guid>
     <description><![CDATA[ Una guía sencilla para entender el proceso de edición, traducción y publicación de SOLE Voltaje. ]]></description>
     <pubDate>Tue, 19 May 2026 18:28:16 GMT</pubDate>
-  </item><item>
-    <title>Disconnected</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/disconnected/</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/disconnected/</guid>
-    <description><![CDATA[ Learn to manage your gear and software even when the connection goes to hell. ]]></description>
-    <pubDate>Tue, 12 May 2026 15:50:05 GMT</pubDate>
-  </item><item>
-    <title>Desconectado</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/pt/disconnected/</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/pt/disconnected/</guid>
-    <description><![CDATA[ Aprenda a lidar com seus equipamentos e programas mesmo quando a conexão foi pro beleléu. ]]></description>
-    <pubDate>Tue, 12 May 2026 15:50:05 GMT</pubDate>
   </item><item>
     <title>Get in touch</title>
     <link>https://sole-colombia.github.io/voltaje-desarrollo/en/answers-comments/</link>
@@ -58,12 +64,6 @@
     <link>https://sole-colombia.github.io/voltaje-desarrollo/en/new-here</link>
     <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/new-here</guid>
     <description><![CDATA[ New here Welcome to SOLE Voltaje! An initiative by SOLE Colombia dedicated to improving access to knowledge through community-based solutions for using the Internet as a group. ]]></description>
-    <pubDate>Mon, 11 May 2026 23:29:28 GMT</pubDate>
-  </item><item>
-    <title>Solve</title>
-    <link>https://sole-colombia.github.io/voltaje-desarrollo/en/solve/</link>
-    <guid>https://sole-colombia.github.io/voltaje-desarrollo/en/solve/</guid>
-    <description><![CDATA[ This is where we get together to tinker and hack. ]]></description>
     <pubDate>Mon, 11 May 2026 23:29:28 GMT</pubDate>
   </item>
     </channel>
