@@ -574,6 +574,8 @@ const SHELL_URLS = [
   "/bases-datos/inspiraciones.html",
   "/bases-datos/soluciones.html",
   "/en/answers-comments/index.html",
+  "/en/glossary/conc-2g-net.html",
+  "/en/index.html",
   "/es/answers-comments/es-importante-aprender-a-transmitir-un-buen-mensaje-para-hacer-una-buena-invitacionna-responses.html",
   "/es/answers-comments/index.html",
   "/es/answers-comments/pregunta-comenta-sole-voltaje.html",
@@ -588,6 +590,7 @@ const SHELL_URLS = [
   "/tags/Community.html",
   "/tags/Computing.html",
   "/tags/Devices.html",
+  "/tags/Internet.html",
   "/tags/Networks.html",
   "/tags/Offline.html",
   "/tags/ddd.html"
@@ -597,7 +600,8 @@ const PRECACHE_IMAGES = [
   "/static/icon-192.png",
   "/static/icon-512.png",
   "/static/icon-maskable-512.png",
-  "/static/icon.png"
+  "/static/icon.png",
+  "/static/line.svg"
 ];
 
 // ─── Install: precachear todas las páginas + assets ────────────────────────
