@@ -574,9 +574,7 @@ const SHELL_URLS = [
   "/bases-datos/inspiraciones.html",
   "/bases-datos/soluciones.html",
   "/en/answers-comments/index.html",
-  "/en/disconnected/index.html",
   "/en/glossary/conc-2g-net.html",
-  "/en/glossary/conc-3g-4g-antennas.html",
   "/en/index.html",
   "/es/answers-comments/es-importante-aprender-a-transmitir-un-buen-mensaje-para-hacer-una-buena-invitacionna-responses.html",
   "/es/answers-comments/index.html",
@@ -586,8 +584,6 @@ const SHELL_URLS = [
   "/es/glossary/conc-2g-net.html",
   "/es/glossary/conc-3g-4g-antennas.html",
   "/es/glossary/conc-ai-helper.html",
-  "/es/glossary/conc-antenna.html",
-  "/prescript.js",
   "/static/custom.js",
   "/static/i18n-switcher.css",
   "/static/i18n-switcher.js",
@@ -597,7 +593,6 @@ const SHELL_URLS = [
   "/tags/Internet.html",
   "/tags/Networks.html",
   "/tags/Offline.html",
-  "/tags/Security.html",
   "/tags/ddd.html"
 ];
 const PRECACHE_IMAGES = [
@@ -607,9 +602,7 @@ const PRECACHE_IMAGES = [
   "/static/icon-maskable-512.png",
   "/static/icon.png",
   "/static/line.svg",
-  "/static/logo-dark.png",
-  "/static/logo-light.png",
-  "/static/logo.png"
+  "/static/logo-dark.png"
 ];
 
 // ─── Install: precachear todas las páginas + assets ────────────────────────
